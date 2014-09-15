@@ -1,0 +1,26 @@
+.btn .preloader{
+	display: inline-block;
+	width: 16px;
+	height: 16px;	
+}
+.btn .preloader.hide{
+	display: none;	
+}
+.btn-primary .preloader{	
+    background-image: url('../preloaders-btn/preloader-btn-primary.gif');
+}
+.btn-default .preloader{	
+    background-image: url('../preloaders-btn/preloader-btn-default.gif');
+}
+.btn-info .preloader{	
+    background-image: url('../preloaders-btn/preloader-btn-info.gif');
+}
+.btn-danger .preloader{	
+    background-image: url('../preloaders-btn/preloader-btn-danger.gif');
+}
+.btn-warning .preloader{	
+    background-image: url('../preloaders-btn/preloader-btn-warning.gif');
+}
+.btn-success .preloader{	
+    background-image: url('../preloaders-btn/preloader-btn-success.gif');
+}
